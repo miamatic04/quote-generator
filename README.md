@@ -4,7 +4,7 @@
 
 Need a little inspiration? What if you could get a brand new motivational quote delivered to your terminal every time you ran a Python script?
 
-In this project tutorial, you'll learn how to fetch a real quote from the internet using just **6 lines of Python code**. We'll use a library called `requests` to talk to a free API (Application Programming Interface) - think of it as knocking on a door and asking for data.
+In this project tutorial, you'll learn how to fetch a real quote from the internet using just **5 lines of Python code**. We'll use a library called `requests` to talk to a free API (Application Programming Interface) - think of it as knocking on a door and asking for data.
 
 Here's a preview of what you'll see when you run the program:
 
@@ -115,7 +115,7 @@ print(data[0]['q'])
 print('—', data[0]['a'])
 ```
 
-That's it, 6 lines! 
+That's it, 5 lines! 
 
 ---
 
